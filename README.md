@@ -40,7 +40,7 @@ $ cd jaffle_shop
   If you have access to a data warehouse, you can use those credentials – we
   recommend setting your [target schema](https://docs.getdbt.com/docs/configure-your-profile#section-populating-your-profile)
   to be a new schema (dbt will create the schema for you, as long as you have
-  the right priviliges). If you don't have access to an existing data warehouse,
+  the right privileges). If you don't have access to an existing data warehouse,
   you can also setup a local postgres database and connect to it in your profile.
 
 5. Ensure your profile is setup correctly from the command line:
